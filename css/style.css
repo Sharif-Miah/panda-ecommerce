@@ -12,19 +12,24 @@
 
 .bg-watch {
     background-color: orange;
-    margin-left: 20px;
 }
 
 .bg-bag {
     background-color: orchid;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 .bg-shoes {
     background-color: blue;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 .img-width {
-    width: 30%;
+    width: 100px;
+}
+
+.subcribe-site {
+    background-color: #fceae8;
 }
